@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{77AD077E-7FCC-4A2D-A9E3-597C9BC3C579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList.Test", "LinkedList.Test\LinkedList.Test.csproj", "{CA6769BE-BD40-468A-8CAA-24E08D4C56BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77AD077E-7FCC-4A2D-A9E3-597C9BC3C579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77AD077E-7FCC-4A2D-A9E3-597C9BC3C579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77AD077E-7FCC-4A2D-A9E3-597C9BC3C579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77AD077E-7FCC-4A2D-A9E3-597C9BC3C579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA6769BE-BD40-468A-8CAA-24E08D4C56BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6769BE-BD40-468A-8CAA-24E08D4C56BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6769BE-BD40-468A-8CAA-24E08D4C56BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6769BE-BD40-468A-8CAA-24E08D4C56BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59DEA05D-5D84-4E55-8A89-FE787606E3C0}
+	EndGlobalSection
+EndGlobal
